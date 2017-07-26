@@ -280,6 +280,7 @@ ul#tab-nav {
   }
 
   .links {
+    display: inherit;
     display: flex;
     flex-direction: row;
     background: #D1D2D3;
@@ -290,6 +291,7 @@ ul#tab-nav {
   }
 
   .grey {
+    display: inherit;
     background: #D1D2D3;
   }
 

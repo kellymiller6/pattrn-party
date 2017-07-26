@@ -20,6 +20,5 @@ $(document).ready(function () {
 });
 
 $('div.menu').on('click', () => {
-  console.log('clicked');
   $('div.hidden').toggleClass('active')
 })
